@@ -1,0 +1,27 @@
+{
+  "name": "editor-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@meta2d/chart-diagram": "^1.0.7",
+    "@meta2d/core": "^1.0.48",
+    "@meta2d/flow-diagram": "^1.0.1",
+    "@meta2d/svg": "^1.0.4",
+    "element-plus": "^2.7.3",
+    "mitt": "^3.0.1",
+    "vue": "^3.4.21",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.77.2",
+    "vite": "^5.2.0"
+  }
+}
